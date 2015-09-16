@@ -1,0 +1,7 @@
+LEPRÊTRE Rémy | COJEZ Arnaud
+ACT -- TP1 -- Ordres de grandeur asymptotiques 
+
+1.1.2
+	g(n) est majorée par f(n)
+	=> log(n) est majorée par n
+

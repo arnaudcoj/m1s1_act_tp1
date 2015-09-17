@@ -5,3 +5,5 @@ ACT -- TP1 -- Ordres de grandeur asymptotiques
 	g(n) est majorée par f(n)
 	=> log(n) est majorée par n
 
+1.2.4
+	les fonctions n*log(n), exp(n), k^n, n! et n^n augmentent brutalement. Même si cela nous a semblé inattendu (nous avions cru a un bug), en mettant les valeurs obtenues en relation avec ces tracés, nous voyons que ces résultats sont corrects
